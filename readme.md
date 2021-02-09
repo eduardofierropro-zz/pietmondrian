@@ -9,12 +9,22 @@ Esto es sólo un pequeño ejemplo que he maquetado para la expliación del víde
 * [CSS]
 * [SASS]
 
+## Vídeos relacionados en Youtube 🛠️
 
-## Wiki 📖
-No existe Wiki de este proyecto ya que ha sido un hobby para un vídeo.
+* [Youtube] (https://www.youtube.com/watch?v=1hDGvWJXzqM)
 
-## Autores ✒️
-* **Eduardo Fierro** - *Documentación y trabajon inicial* - [eduardofierropro](https://github.com/eduardofierropro)
+## Desarrollado con 🛠️
+
+* [Visual Studio Code]
+
+## Autor ✒️
+**Eduardo Fierro** - *Documentación y trabajo inicial*
+* [Github] (https://github.com/eduardofierropro)
+* [Youtube] (https://youtube.com/EduardoFierroPro)
+* [Twitch] (https://twitch.tv/eduardofierropro)
+* [Instagram] (https://instagram.com/eduardofierro.pro)
+* [Twitter] (https://twitter.com/edfierropro)
+
 
 También puedes mirar la lista de todos los [contribuyentes]. 
 
