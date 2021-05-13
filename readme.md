@@ -1,21 +1,12 @@
 ## Descripción
-Esto es sólo un pequeño ejemplo que he maquetado para la expliación del vídeo de Youtube: https://youtu.be/2-lE3CPzINE
+Esto es sólo un pequeño ejemplo que he maquetado para la expliación del vídeo de Youtube:[https://www.youtube.com/watch?v=1hDGvWJXzqM](https://www.youtube.com/watch?v=1hDGvWJXzqM)
 
 ## Uso 🚀
 ¡Pues juega y disfruta!
 
-## Construido con 🛠️
-* [HTML5]
-* [CSS]
-* [SASS]
 
 ## Vídeos relacionados en Youtube 🛠️
-
 * [Youtube](https://www.youtube.com/watch?v=1hDGvWJXzqM)
-
-## Desarrollado con 🛠️
-
-* [Visual Studio Code]
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
@@ -27,7 +18,6 @@ Esto es sólo un pequeño ejemplo que he maquetado para la expliación del víde
 * [Twitter](https://twitter.com/edfierropro)
 
 
-También puedes mirar la lista de todos los [contribuyentes]. 
 
 ## Licencia 📄
 GNU General Public License v3.0
