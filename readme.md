@@ -6,7 +6,7 @@ Esto es sólo un pequeño ejemplo que he maquetado para la expliación del víde
 
 
 ## Vídeos relacionados en Youtube 🛠️
-* [Youtube](https://www.youtube.com/watch?v=1hDGvWJXzqM)
+* [https://www.youtube.com/watch?v=1hDGvWJXzqM](https://www.youtube.com/watch?v=1hDGvWJXzqM)
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
