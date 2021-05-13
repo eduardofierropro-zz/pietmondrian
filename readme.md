@@ -11,7 +11,7 @@ Esto es sólo un pequeño ejemplo que he maquetado para la expliación del víde
 
 ## Vídeos relacionados en Youtube 🛠️
 
-* [Youtube] (https://www.youtube.com/watch?v=1hDGvWJXzqM)
+* [Youtube](https://www.youtube.com/watch?v=1hDGvWJXzqM)
 
 ## Desarrollado con 🛠️
 
@@ -19,11 +19,12 @@ Esto es sólo un pequeño ejemplo que he maquetado para la expliación del víde
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
-* [Github] (https://github.com/eduardofierropro)
-* [Youtube] (https://youtube.com/EduardoFierroPro)
-* [Twitch] (https://twitch.tv/eduardofierropro)
-* [Instagram] (https://instagram.com/eduardofierro.pro)
-* [Twitter] (https://twitter.com/edfierropro)
+* [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+* [Twitch](https://twitch.tv/eduardofierropro)
+* [TikTok](https://www.tiktok.com/@eduardofierro.pro?)
+* [Github](https://github.com/eduardofierropro)
+* [Instagram](https://instagram.com/eduardofierro.pro)
+* [Twitter](https://twitter.com/edfierropro)
 
 
 También puedes mirar la lista de todos los [contribuyentes]. 
