@@ -17,7 +17,10 @@ Esto es sólo un pequeño ejemplo que he maquetado para la expliación del víde
 * [Instagram](https://instagram.com/eduardofierro.pro)
 * [Twitter](https://twitter.com/edfierropro)
 
+## Master/Cursos donde sor profesor 📚
+Soy profesor en la Escuela Trazos donde impartimos Cursos y Másters sobre desarrollo web con una bolsa de trabajo con Alta Empleabilidad. ¡Píde información sobre los cursos donde soy profesor desde este enlace!
 
+👉[https://trazos.net/contacto-eduardofierro](https://trazos.net/contacto-eduardofierro)
 
 ## Licencia 📄
 GNU General Public License v3.0
